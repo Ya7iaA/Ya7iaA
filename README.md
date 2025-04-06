@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚩From Egypt<br><br>📚 I'm currently learning Computer science<br><br>🔗 ya7iaahmed.com</p>
+<p align="left">🚩From Egypt<br><br>📚 I'm currently learning Computer science<br><br>🔗 www.ya7iaahmed.com</p>
 
 ###
 
@@ -11,11 +11,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="[java logo](https://www.java.com/en/)"  />
+  <a href="https://www.java.com/en/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="[cplusplus logo](https://cplusplus.com/)"  />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="[wordpress logo](https://wordpress.com/)"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
 ###

@@ -20,7 +20,6 @@
   <img width="12" />
   </a>
   <a href="https://dart.dev/" target="_blank">
-    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   </a>
     <a href="https://wordpress.com/" target="_blank">

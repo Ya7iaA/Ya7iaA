@@ -52,12 +52,5 @@
 
 ###
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ya7iaA
-&&style=flat-square" align="center" />
-</div>  
 
-###
-
-![Profile views](https://komarev.com/ghpvc/?Ya7iaA=Ya7iaA)
 

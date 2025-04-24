@@ -53,7 +53,5 @@
 ###
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ya7iaA
-&&style=flat-square" align="center" />
+  <img src="https://profile-counter.glitch.me/Ya7iaA/count.svg?"  />
 </div>
-

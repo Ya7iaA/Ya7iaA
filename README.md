@@ -49,6 +49,9 @@
 ###
 
 <p align="center">وَكَانَ فَضۡلُ ٱللَّهِ عَلَیۡكَ عَظِیمࣰا</p>
+
+###
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Ya7iaA
 &&style=flat-square" align="center" />

@@ -24,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-
-
 ###
 
 <h2 align="left">Contact With Me</h2>
@@ -33,7 +31,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/yahia-ahmed-521a56312/" target="_blank">
+  <a href="www.linkedin.com/in/yahia-ahmed-521a56312" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/ya_7ia_a7med?igsh=MXRxYmQxa2xyMTk4Mw%3D%3D&utm_source=qr" target="_blank">
@@ -41,6 +39,9 @@
   </a>
   <a href="https://x.com/ya_7ia_a7med?s=21" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mailto:info@ya7iaahmed.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -61,3 +62,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Ya7iaA/count.svg?"  />
 </div>
+
+###

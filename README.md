@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚩From Egypt<br><br>📚 I'm currently learning Computer science<br><br>🔗 www.ya7iaahmed.com</p>
+<p align="left">🚩From Egypt<br><br>📚 CS Student<br><br>🔗 www.ya7iaahmed.com</p>
 
 ###
 
@@ -38,9 +38,6 @@
   </a>
   <a href="https://www.instagram.com/ya_7ia_a7med?igsh=MXRxYmQxa2xyMTk4Mw%3D%3D&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/yaiaahmed.abualfutuh?mibextid=wwXIfr&mibextid=wwXIfr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   <a href="https://x.com/ya_7ia_a7med?s=21" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />

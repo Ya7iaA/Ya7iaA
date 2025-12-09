@@ -46,7 +46,7 @@
   <a href="https://www.youtube.com/@dev_looped" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/ya_7ia_a7med?igsh=MXRxYmQxa2xyMTk4Mw%3D%3D&utm_source=qr" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:info@ya7iaahmed.com" target="_blank">
